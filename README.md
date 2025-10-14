@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Stats
 
-[![AziSarlaks's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AziSarlaks&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![AziSarlaks's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AziSarlaks&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💻 Tech Stack
 
