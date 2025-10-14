@@ -3,7 +3,6 @@
 
 ## 📊 GitHub Stats
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AziSarlaks&layout=compact&theme=radical&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 [![AziSarlaks's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AziSarlaks&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 💻 Tech Stack
@@ -39,3 +38,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emperw)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooshok2007@mail.ru)
 
+## 👀 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=AziSarlaks&color=blue&style=flat-square)
