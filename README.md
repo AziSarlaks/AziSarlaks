@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AziSarlaks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AziSarlaks&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AziSarlaks&theme=radical)](https://github.com/denvercoder1/github-readme-streak-stats)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AziSarlaks&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 💻 Tech Stack
