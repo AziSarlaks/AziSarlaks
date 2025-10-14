@@ -6,11 +6,6 @@
 [![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AziSarlaks&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![AziSarlaks's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AziSarlaks&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 📫 Connect with Me
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emperw)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooshok2007@mail.ru)
-
 ## 💻 Tech Stack
 
 **Languages:**
@@ -34,3 +29,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=AziSarlaks&theme=onedark&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📫 Connect with Me
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/emperw)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pooshok2007@mail.ru)
+
