@@ -1,5 +1,10 @@
-## Hi there 👋
+### Hi there 👋
 
+## 👨‍💻 About Me
+
+- 🔭 **Currently studing at the:** NSU
+- 🌱 **Currently learning:** C, Machine Learning(Deep Learning)
+- 💬 **Ask me about:** Python, Java, C++, Databases, Software Architecture
 
 ## 📊 GitHub Stats
 
