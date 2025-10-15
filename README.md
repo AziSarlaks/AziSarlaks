@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://media1.tenor.com/m/5VyEFtAI1qQAAAAC/garp-garp-galaxy-impact.gif)
 ## 👨‍💻 About Me
 
 - 🔭 **Currently studing at the:** NSU
