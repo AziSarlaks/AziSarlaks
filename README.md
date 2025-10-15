@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnd6ZnhqejFjdzU0c2wyZHZ3c21vamZ1bWhmczNuYjR1bmhtd2twciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GqOUj28xu7X5Ws9VJY/giphy.gif)
+![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazVraDU4aG51eXgzanhtZDl6cm05Z3lrc3FwYnR0NTZzdXcwMnlvbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nQDKSeRlIyfmw/giphy.gif)
 ## 👨‍💻 About Me
 
 - 🔭 **Currently studing at the:** NSU
