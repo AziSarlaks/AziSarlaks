@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me
 
 - 🔭 **Currently studing at the:** NSU
-- 🌱 **Currently learning:** C, Machine Learning(Deep Learning)
+- 🌱 **Currently learning:** C, Machine Learning
 - 💬 **Ask me about:** Python, Java, C++, Databases, Software Architecture
 
 ## 📊 GitHub Stats
